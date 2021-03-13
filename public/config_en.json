@@ -8,15 +8,6 @@
 "image":"https://a-maash.com/logo.png"
 },
 {
-"isSafeArea":true,
-"layout":"header_text",
-"padding":15,
-"title":"الشيخ ‏عبد ‏الرضا ‏معاش",
-"showSearch":false,
-"fontSize":20,
-"height":0.06
-},
-{
 "layout":"bannerImage",
 "isSlider":false,
 "items":[
